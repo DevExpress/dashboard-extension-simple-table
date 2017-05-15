@@ -1,4 +1,6 @@
-A custom **Simple Table** item allows you to render your data as an HTML table. You can use the Simple Table as a detail item along with the Master-Filtering feature.
+A custom **Simple Table** item renders data from the measure / dimensions as an HTML table. 
+
+You can use the Simple Table as a detail item along with the Master-Filtering feature.
 
 ## Installation
 

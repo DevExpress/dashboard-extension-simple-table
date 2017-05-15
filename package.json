@@ -1,0 +1,17 @@
+{
+  "name": "dashboard-extension-simple-table",
+  "version": "1.0.0",
+  "description": "A custom *Simple Table* item allows you to render your data as an HTML table.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevExpress/dashboard-extension-simple-table.git"
+  },
+  "author": "Developer Express Inc.",
+  "homepage": "https://github.com/DevExpress/dashboard-extension-simple-table#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-rename": "^1.2.2"
+  }
+}

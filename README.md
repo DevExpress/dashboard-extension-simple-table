@@ -23,7 +23,7 @@ To add a custom Simple Table item extension to the Web Dashboard, follow the ste
 ```javascript
 function onBeforeRender(sender) {
   var dashboardControl = sender.GetDashboardControl();
-  dashboardControl.registerExtension(simpleTableExtension(dashboardControl));
+  dashboardControl.registerExtension(new CustomItemSimpleTableExtension(dashboardControl));
 }
 ```
 

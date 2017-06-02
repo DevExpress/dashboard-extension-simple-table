@@ -7,6 +7,7 @@
     "url": "git+https://github.com/DevExpress/dashboard-extension-simple-table.git"
   },
   "author": "Developer Express Inc.",
+  "license": "MIT",
   "homepage": "https://github.com/DevExpress/dashboard-extension-simple-table#readme",
   "devDependencies": {
     "gulp": "^3.9.0",

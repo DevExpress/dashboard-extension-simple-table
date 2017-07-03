@@ -45,7 +45,7 @@ function onBeforeRender(sender) {
 
 ## Settings
 The **Simple Table** dashboard item supports the following setting that you can configure in the Web Dashboard UI:
-
+![simple-table](https://user-images.githubusercontent.com/17986517/27799896-b378f8c2-601f-11e7-9ba5-c1add5118291.png)
 
 * **Show Headers** - Specifies whether to show the field headers in the table. The default value is *Auto*.
 

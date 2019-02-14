@@ -1,3 +1,10 @@
+
+⛔ DEPRECATED. This project was moved to a new repository. Visit [dashboard-extensions](https://github.com/DevExpress/dashboard-extensions) to find an updated version. 
+
+The current repository does not support the [modular approach](https://docs.devexpress.com/Dashboard/119108/) for HTML JS Dashboard and will not be updated in the future.
+
+------
+
 A custom **Simple Table** item renders data from the measure / dimensions as an HTML table. 
 
 You can use the Simple Table as a detail item along with the Master-Filtering feature.
